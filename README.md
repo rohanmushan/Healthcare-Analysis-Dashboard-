@@ -1,4 +1,4 @@
-# Health Care Analysis Project
+# Health Care Analysis Dashboard
 
 ## 📋 Project Overview
 
