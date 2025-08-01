@@ -142,7 +142,7 @@ Health Care Analysis/
 └── README.md                  # Project documentation
 ```
 
-## 🤝 Contributing
+## Contributing
 
 This project is designed for healthcare data analysis and can be extended with:
 - Additional data sources
@@ -151,16 +151,7 @@ This project is designed for healthcare data analysis and can be extended with:
 - Real-time data integration
 - Custom visualizations
 
-## 📞 Support
+## Support
 
 For questions or issues related to this healthcare analysis project, please refer to the data documentation or contact the project maintainer.
 
-## 📄 License
-
-This project is intended for educational and analytical purposes. Please ensure compliance with healthcare data privacy regulations (HIPAA, GDPR, etc.) when working with this data.
-
----
-
-**Last Updated**: February 3, 2025  
-**Data Period**: 2018-2023  
-**Total Records**: 10,000 patient admissions 
